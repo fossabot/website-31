@@ -1,6 +1,7 @@
 <div align="center">
 
 ![JSECoin Ltd](https://jsecoin.com/docs/images/jseLogo_small_card.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fwebsite.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fwebsite?ref=badge_shield)
   
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com) [![forthebadge](http://forthebadge.com/images/badges/uses-js.svg)](http://forthebadge.com) [![forthebadge](http://forthebadge.com/images/badges/makes-people-smile.svg)](http://forthebadge.com)
 </div>
@@ -63,3 +64,5 @@ If you'd like to assist and help the team please first review our [Contribution 
 
 ## License
 This project is under the [GNU General Public License v3.0](./LICENSE).
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fwebsite.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fwebsite?ref=badge_large)
